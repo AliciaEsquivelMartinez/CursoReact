@@ -1,0 +1,20 @@
+.container{
+    position: relative;
+    display: inline-block;
+}
+img.Nohaytodos {
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+    padding: 0px 6px;
+    box-shadow: 2px 2px 20px 0px #b469e7;
+}
+.Createtodo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(70deg, #c1c1ee5e, #bdd3f0d9);
+    padding: 45px;
+    border-radius: 50%;
+}
